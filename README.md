@@ -2,6 +2,10 @@
 
 This repository is a work-in-progress.
 
+## Join Me
+- [ ] Sign up for a free [Join Me account](https://www.join.me/)
+  - [ ] Successfully screenshare with Paul
+
 ## CodeCombat
 - [ ] Sign up for a [CodeCombat account](https://codecombat.com/)
 - [ ] Complete [all 5 courses](https://codecombat.com/play)
