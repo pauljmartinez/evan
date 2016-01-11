@@ -2,6 +2,11 @@
 
 This repository is a work-in-progress.
 
+## New Mac Setup
+- [ ] Link your new iMac to your iCloud account
+- [ ] Configure the Messages app
+  - [ ] Successfully send a message to Paul via Messages from the iMac
+
 ## Join Me
 - [ ] Sign up for a free [Join Me account](https://www.join.me/)
   - [ ] Successfully screenshare with Paul
