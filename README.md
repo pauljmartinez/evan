@@ -3,13 +3,13 @@
 This repository is a work-in-progress.
 
 ## New Mac Setup
-- [ ] Link your new iMac to your iCloud account
+- [x] Link your new iMac to your iCloud account
 - [x] Configure the Messages app
   - [x] Successfully send a message to Paul via Messages from the iMac
 
 ## Join Me
-- [ ] Sign up for a free [Join Me account](https://www.join.me/)
-  - [ ] Successfully screenshare with Paul
+- [x] Sign up for a free [Join Me account](https://www.join.me/)
+  - [x] Successfully screenshare with Paul
 
 ## CodeCombat
 - [ ] Sign up for a [CodeCombat account](https://codecombat.com/)
