@@ -44,4 +44,6 @@ This repository is a work-in-progress.
 - [ ] Sign up for a [Bitbucket account](https://bitbucket.org/)
 - [ ] Follow [Paul](https://bitbucket.org/pauljmartinez/)
 
-
+## OS X Screenshots
+  + [ ] Try out [Skitch](https://itunes.apple.com/us/app/skitch-snap.-mark-up.-share./id425955336?mt=12)
+  + [ ] Learn the [native Mac OS X keyboard shortcuts](https://support.apple.com/en-us/HT201361)
